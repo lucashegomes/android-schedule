@@ -37,10 +37,10 @@
             android:layout_gravity="center"
             android:id="@+id/form_rate"/>
 
-        <Button android:text="Adicionar"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/form_save"/>
+<!--        <Button android:text="Adicionar"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:id="@+id/form_save"/>-->
 
     </LinearLayout>
 
